@@ -13,7 +13,7 @@
     "description" : "SwaggerHub API Auto Mocking"
   } ],
   "security" : [ {
-    "password" : [ "read", "write" ]
+    "password" : [ "read", "write", "admin" ]
   } ],
   "paths" : {
     "/example" : {
