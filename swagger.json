@@ -13,7 +13,7 @@
     "description" : "This is an example of using OAuth2 Password Flow in a specification to describe security to your API."
   },
   "security" : [ {
-    "password" : [ "read", "write" ]
+    "password" : [ "read", "write", "admin" ]
   } ],
   "paths" : {
     "/example" : {
